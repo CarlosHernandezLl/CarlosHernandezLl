@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un programador peruano de 20 años apasionado por la tecnología y el desarrollo de software. Mi mayor motivación es aprender constantemente, enfrentar desafíos y destacar en cada proyecto que emprendo.<br><br>Estoy buscando colaborar en iniciativas innovadoras donde pueda aplicar mis conocimientos, crecer profesionalmente y aportar valor real. Siempre estoy abierto a explorar nuevas tecnologías, resolver problemas y trabajar en equipo para alcanzar objetivos ambiciosos.<br><br>Si compartes la pasión por la programación o tienes un proyecto emocionante en mente, ¡no dudes en contactarme! 🚀
+¡Hola! Soy un programador peruano apasionado por la tecnología y el desarrollo de software. Mi mayor motivación es aprender constantemente, enfrentar desafíos y destacar en cada proyecto que emprendo.<br><br>Estoy buscando colaborar en iniciativas innovadoras donde pueda aplicar mis conocimientos, crecer profesionalmente y aportar valor real. Siempre estoy abierto a explorar nuevas tecnologías, resolver problemas y trabajar en equipo para alcanzar objetivos ambiciosos.<br><br>Si compartes la pasión por la programación o tienes un proyecto emocionante en mente, ¡no dudes en contactarme! 🚀
 
 
 ## 🌐 Socials:
