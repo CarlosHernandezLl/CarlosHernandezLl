@@ -1,5 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy un programador peruano apasionado por la tecnología y el desarrollo de software. Mi mayor motivación es aprender constantemente, enfrentar desafíos y destacar en cada proyecto que emprendo.<br><br>Estoy buscando colaborar en iniciativas innovadoras donde pueda aplicar mis conocimientos, crecer profesionalmente y aportar valor real. Siempre estoy abierto a explorar nuevas tecnologías, resolver problemas y trabajar en equipo para alcanzar objetivos ambiciosos.<br><br>Si compartes la pasión por la programación o tienes un proyecto emocionante en mente, ¡no dudes en contactarme! 🚀
+¡Hola! Soy un programador peruano apasionado por la tecnología, el desarrollo de software, la seguridad y la infraestructura en la nube. Mi mayor motivación es aprender constantemente, enfrentar desafíos técnicos y destacar en cada proyecto que emprendo.
+
+Busco colaborar en iniciativas innovadoras donde pueda aplicar mis conocimientos en código robusto, sistemas seguros y arquitecturas escalables en la nube. Mi objetivo es crecer profesionalmente y aportar valor real desde el diseño hasta la implementación y operación.
+
+Siempre estoy abierto a explorar nuevas tecnologías, resolver problemas complejos y trabajar en equipo para alcanzar objetivos ambiciosos.
+
+Si compartes la pasión por la programación, la seguridad informática, la infraestructura Cloud o tienes un proyecto emocionante en mente, ¡no dudes en contactarme! 🚀
 
 
 ## 🌐 Socials:
